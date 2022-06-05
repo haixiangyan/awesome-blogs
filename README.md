@@ -12,3 +12,7 @@ Kent C. Dodds 的博客在单测、React 方面有比较好的个人理解，同
 ## [WebGL Fundamentals](https://webglfundamentals.org/)
 
 WebGL 基础教程。
+
+## [findyi 的文章博客](https://ifindyi.com/)
+
+记录程序员升级之路。
